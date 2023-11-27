@@ -54,14 +54,10 @@ Aplicar estilos CSS para mejorar la apariencia de los componentes. Puede utiliza
 Screenshot
 ________________________________________
 Pantalla completa (1200px):
-
 ![image](https://github.com/rosslabarca/TodoList_React/assets/100976050/6654a2cd-ac8e-42b4-b304-fcfc908ca7c9)
 
 Responsive pantalla pequeña (768px)
-
 ![image](https://github.com/rosslabarca/TodoList_React/assets/100976050/146b4265-fe42-405c-afbe-6b076846e8fe)
-
-
 
 Technologies
 ________________________________________
@@ -69,13 +65,20 @@ ________________________________________
 Lista de tecnologías descargadas y usadas:
 
 NODEjs (https://nodejs.org/en) Version 20.3 
+
 Simple React Snippets (https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) Version 1.2.7 
+
 ES7+ React/Redux/React-Native snippets (https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Version 4.4.3
+
 Vite (https://vitejs.dev/guide/) configuración en la terminal Go Comand $ npm create vite@latest 
+
 Chakra UI https://chakra-ui.com/ configuración en la terminal Go Comand npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion 
+
 Bootstrap- React: https://react-bootstrap.netlify.app/docs/getting-started/introduction configuración en la terminal Go Comand npm install react-bootstrap bootstrap
-Netlify app para hacer el deployed https://app.netlify.com/sites/contadorreactrl/overview
-Página: https://contadorreactrl.netlify.app/
+
+Netlify app para hacer el deployed https://app.netlify.com/sites/todolistreactrl/configuration/general
+
+Página: https://todolistreactrl.netlify.app/
 
 Installation
 ________________________________________
@@ -96,7 +99,7 @@ ________________________________________
 7.	Crear una carpeta para agregar el componente secundario renderizado a main.jsx, llamado Header.jsx.
    Este mismo, para cumplir el requerimiento de estilo, se utilizo la página de google chrome https://diccionarioweb.com/colorzilla-como-saber-colores-de-una-pagina-web/
 8.	Subir los archivos a GitHub.
-9.	Hacer el deployed en Netlify.  https://contadorreactrl.netlify.app/
+9.	Hacer el deployed en Netlify.  https://todolistreactrl.netlify.app/
 
 
 
